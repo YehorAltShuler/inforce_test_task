@@ -1,16 +1,11 @@
-# inforce_test_task
+# Inforce Test Task
 
-A new Flutter project.
+Simple app that allows users to retrieve book titles, add new titles, and delete existing ones.
 
-## Getting Started
+## Requirements:
 
-This project is a starting point for a Flutter application.
+https://drive.google.com/file/d/1tHrj_tExdmDVCMEoXFt0FP0F8Qep0AdW/view?usp=sharing
 
-A few resources to get you started if this is your first Flutter project:
+## Demo:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![inforce_test_task](https://github.com/YehorAltShuler/inforce_test_task/assets/107608882/7870fe5f-26d1-4a41-9c26-be97e5ade0bf)
